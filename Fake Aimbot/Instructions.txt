@@ -1,0 +1,58 @@
+Hey, Thanks for using Nayeshi. Please read the instructions below.
+
+
+The Aimbot uses a memory model. That means, that it directly interacts with the game. Currently the Aimbot is undetected. Please do not report this Aimbot to game devs as it was a hard process to create it!
+
+Supports:
+
+1) Aimbot
+2) ESP
+3) Player Detection
+4) Stats detection
+5) Shooting through walls
+6) Damage increase (Only CS:GO) 
+7) Flying (Only in Valorant) 
+
+
+The Aimbot can be controlled with Keyboard shotcuts, which are visible to you after starting it.
+A little Pop-up window with some details, status reports and the keyboard shortcuts will appear.
+
+
+Starting:
+
+Click on the "Nayeshi.exe" file and run it. You don't need to run it as Administrator but it doesn't harm if you do and it may solve some problems with specific anti-cheat software.
+
+The Aimbot will start generating and updating the pointers (player in game references). Those are typically calculated while running, but I decided to do it on startup, because it increases speed and your in-game performance a lot. This process only needs to be done ONCE and the pointers can be re-used.
+
+
+You can exit the Aimbot at any time by pressing F1
+
+
+Please note:
+
+Cheating doesn't make you a better player, but skill does. Do it if you want, but I am not responsible for potential lost accounts.
+
+
+
+
+Anti-Virus protections:
+
+You don't need to turn off your Anti-Virus because this is not a virus lol. If you wanna be sure you can go to Virus Total and scan the file. If any problems occur, you can disable windows defender, but on my system there were no problems.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
